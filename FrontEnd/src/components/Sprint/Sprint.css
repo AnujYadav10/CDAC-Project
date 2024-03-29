@@ -1,0 +1,39 @@
+#Sprint{
+    opacity: 0.8;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+#Header{
+    background-image: url('../../images/Loginbackground.jpg');
+    background-size: cover;
+    border: 5px solid #ccc; /* Grey border */
+    border-radius: 5px; /* Rounded corners */
+    padding: 20px; /* Space between the content and the border */
+    width: 100%;
+    height: 10%;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    margin-left: 0px;
+    margin-right: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+    font-family: Arial, sans-serif; /* Use a clean, simple font */
+    border: 0px;
+}
+
+.Heading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+    font-size: 50px;
+}
+  
+

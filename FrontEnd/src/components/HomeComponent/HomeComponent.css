@@ -1,0 +1,54 @@
+
+#innercont {
+    background-image: url('../../images/Loginbackground.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid #ccc; /* Grey border */
+    border-radius: 5px; /* Rounded corners */
+    padding: 20px; /* Space between the content and the border */
+    justify-content: center; /* Aligns items on the horizontal line */
+    width: 40%; /* Take up 80% of the container's width */
+    height: 100%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+    font-family: Arial, sans-serif; /* Use a clean, simple font */
+    line-height: 1.6; /* Space out the lines of text a bit */
+}
+
+#Homecom {
+    background-color: bisque;
+        width: 100vw;
+        height: 1000px;
+        margin: 10px;
+        background-image: url('../../images/Employees.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+
+#title {
+    text-align: center;
+    text-align: center; /* Centers the text */
+    color: #ffffff; /* Sets the text color to white */
+    background-color: #d3902c86; /* Sets the background color to Bootstrap primary blue */
+    padding: 20px; /* Adds some space around the text */
+    border-radius: 10px; /* Rounds the corners of the header */
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); /* Adds a shadow effect */
+    font-family: 'Arial', sans-serif; /* Changes the font */
+    font-size: 2em; /* Increases the font size */
+  }
+
+
+#row2{
+    height: 300px;
+    width: 60%;
+    justify-content: center;
+    background-image: url('../../images/Logo2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px;
+    margin: auto ;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+    font-family: Arial, sans-serif; /* Use a clean, simple font */
+    line-height: 1.6;
+
+}
+  
